@@ -18,8 +18,8 @@ El script XSCAN es una simple herramienta diseñada para llevar a cabo un escane
 1. Clona este repositorio en tu sistema:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/ch4hub/xscan.git
+cd xscan
 ```
 
 2. Asegúrate de que tienes instalado Python en tu sistema.
@@ -27,7 +27,7 @@ cd tu_repositorio
 3. Ejecuta el script usando Python con privilegios de administrador:
 
 ```bash
-sudo python script_rootkit.py
+sudo python xscan.py
 ```
 
 4. Sigue las instrucciones en pantalla para verificar la instalación de rkhunter y chkrootkit, actualizar las bases de datos y realizar el escaneo.
